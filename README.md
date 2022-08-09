@@ -21,7 +21,8 @@ contain the following copyright message:
 All of the glyphs are built up from straight line segments, as simple
 vector output devices could not render spline curves directly.
 
-These files are not directly useful to today's user.
+These files are not directly useful to today's user. This issue from 
+the FontForge repo, however, may contain interesting tools: [FontForge does not support vector (plotter) FNT/FON format · Issue #3841 · fontforge/fontforge](https://github.com/fontforge/fontforge/issues/3841)
 
 ## Generated Files
 
